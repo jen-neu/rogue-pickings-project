@@ -12,6 +12,7 @@ body {
 }
 
 .container {
+	width: 90%;
 	max-width: 1200px;
 	display: flex;
 	justify-content: center;
@@ -89,7 +90,7 @@ header nav ul li a{
 	width: 100%;
 	display: flex;
 	justify-content: center;
-	align-items: center;
+	align-items: flex-start;
 	flex-flow: row wrap;
 }
 
